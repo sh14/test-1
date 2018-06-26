@@ -255,4 +255,4 @@ jQuery('button').bind('click', function () {
 
 </script>
 <?php require_once 'footer.php'; //подключаем футер?>
-test
+test?
